@@ -1,0 +1,15 @@
+﻿l_korean:
+ # Note to Chinese translators if you ever see this: Qi Ma is a reference to the character M'aiq the Liar from Elder Scrolls
+ # Feel free to translate "Qi Ma" to something silly or some kind of pun
+ dynn_RICE_qi_ma:0 "치(Qi)"
+ RICE_name_ma:0 "마(Ma)"
+ RICE_nick_the_liar:0 "거짓말쟁이"
+ RICE_nick_the_liar_desc:1 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U]은(는) 많은 것을 알고 그 중 일부를 말합니다. [CHARACTER.GetShortUINameNoTooltipNoFormat|U]은(는) 다른 사람이 모르는 많은 것을 알고 있습니다."
+ VIET_name_dreamer:0 "몽상가"
+ VIET_nick_crow_lord:0 "까마귀의 주군"
+ VIET_nick_crow_lord_desc:1 "까마귀들은 [CHARACTER.GetShortUINameNoTooltipNoFormat]에게 자연스럽게 끌려들어 갑니다. 아마도 [CharHaveHas(CHARACTER)] [CharYouSheHe(CHARACTER)]의 두렵고, 어두우며 미지의 능력이 까마귀들과의 유대를 형성한 것으로 여겨집니다."
+ VIET_nick_crow_lady:0 "까마귀의 여인"
+ VIET_nick_crow_lord_desc:1 "까마귀들은 [CHARACTER.GetShortUINameNoTooltipNoFormat]에게 자연스럽게 끌려들어 갑니다. 아마도 [CharHaveHas(CHARACTER)] [CharYouSheHe(CHARACTER)]의 두렵고, 어두우며 미지의 능력이 까마귀들과의 유대를 형성한 것으로 여겨집니다."
+ dynn_VIET_dreamer:0 ""
+ VIET_nick_runs_in_circles:0 "원을 그리며 뛰는 자"
+ VIET_nick_runs_in_circles_desc:0 "[CHARACTER.GetShortUINameNoTooltipNoFormat|U](은)는 제정신이 아닙니다, 오직 하는 것이라고 \"니 니 니 니!\"라 소리지르며 주위를 뛰어다닐 뿐입니다."
